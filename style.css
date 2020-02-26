@@ -212,6 +212,7 @@ footer {
 
     .tagline {
         width: 82%;
+        margin: auto;
     }
 
     h1 {
@@ -230,5 +231,24 @@ footer {
 
     .download_mac {
         width: 230px;
+    }
+
+    #snippets_content {
+    display: flex;
+    flex-direction: column;
+    }
+
+    #computer_img {
+    width: 85%;
+    height: 10%;
+    margin: auto;
+    padding-top: 65px;
+    }
+
+    
+    #small_text {
+        margin-top: 60px;
+        text-align: center;
+        margin-left: 0;
     }
 }
