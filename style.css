@@ -50,6 +50,7 @@ p {
 
 #title_buttons {
     display: flex;
+    margin-top: 50px;
 }
 
 .download_ios {
@@ -97,4 +98,16 @@ p {
 
 .snippet_text {
     padding-bottom: 50px;
+}
+
+#clipboard {
+    margin-top: 155px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#image_devices {
+    padding-top: 110px;
+    margin: 0 auto;
 }
