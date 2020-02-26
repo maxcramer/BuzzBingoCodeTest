@@ -1,0 +1,13 @@
+#title {
+    background-image: url("./images/bg-header-desktop.png");
+    height: 22rem;
+    width: 100%;
+}
+
+body {
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+}
