@@ -7,6 +7,7 @@
     align-items: center;
     padding-top: 128px;
     background-repeat: no-repeat;
+    margin-bottom: 150px;
 }
 
 body {
@@ -14,18 +15,31 @@ body {
     font-family: Bai Jamjuree;
 }
 
-h2 {
+h1 {
     font-weight: 600;
     margin-top: 0;
 }
 
-p {
-    font-weight: 400;
-    padding-bottom: 50px;
-    margin: 0;
+h2 {
+    text-align: center;
+    margin: 0 auto 30px auto;
+    font-weight: 600;
 }
 
-#tagline {
+h3 {
+    font-weight: 600;
+    margin-bottom: 25px;
+}
+
+p {
+    font-weight: 400;
+    /* padding-bottom: 50px; */
+    margin: 0;
+    color: #D0D4D4;
+    line-height: 22px;
+}
+
+.tagline {
     text-align: center;
 }
 
@@ -49,6 +63,7 @@ p {
     color: white;
     padding: 0 40px;
     margin: 0 20px;
+    cursor: pointer;
 }
 
 .download_mac {
@@ -62,4 +77,24 @@ p {
     color: white;
     padding: 0 40px;
     margin: 0 20px;
+    cursor: pointer;
+}
+
+#computer_img {
+    margin-left: -30px;
+    margin-top: 80px;
+}
+
+#snippets_content {
+    display: flex;
+    flex-direction: row;
+}
+
+#small_text {
+    margin-left: 100px;
+    margin-top: 155px;
+}
+
+.snippet_text {
+    padding-bottom: 50px;
 }
