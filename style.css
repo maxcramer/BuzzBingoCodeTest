@@ -244,11 +244,16 @@ footer {
     margin: auto;
     padding-top: 65px;
     }
-
     
     #small_text {
         margin-top: 60px;
         text-align: center;
         margin-left: 0;
+    }
+
+    }
+    #image_devices {
+        padding-top: 65px;
+        width: 100%;
     }
 }
