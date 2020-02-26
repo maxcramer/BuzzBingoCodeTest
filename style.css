@@ -1,3 +1,5 @@
+
+
 #title {
     background-image: url("./images/bg-header-desktop.png");
     height: 22rem;
@@ -197,4 +199,36 @@ footer {
 
 #faq {
     margin-right: 90px;
+}
+
+@media screen and (max-width: 375px) {
+    #title {
+        background-image: url("./images/bg-header-mobile.png");
+        width: 100%;
+        height: 100%;
+        background-repeat: no-repeat;
+        margin-bottom: 100px;
+    }
+
+    .tagline {
+        width: 82%;
+    }
+
+    h1 {
+        width: 80%;
+        text-align: center;
+    }
+
+    #title_buttons {
+        flex-direction: column;
+    }
+
+    .download_ios {
+         margin-bottom: 20px;
+         width: 230px;
+    }
+
+    .download_mac {
+        width: 230px;
+    }
 }
