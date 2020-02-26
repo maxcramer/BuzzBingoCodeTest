@@ -122,7 +122,7 @@ p {
 }
 
 #clipboard .tagline {
-    width: 80%;
+    width: 45%;
     margin: auto;
 }
 
@@ -152,7 +152,7 @@ p {
 
 
 #plainTextSnippet {
-    width: 71%;
+    width: 75%;
     margin: auto;
 }
 
@@ -308,6 +308,22 @@ footer {
     margin: auto;
     width: 80%;
 }
+#clipboard .tagline {
+    width: 80%;
+    margin: auto;
+}
+
+#blacklist_snippet {
+    width: 100%;
+}
+
+    #plainTextSnippet {
+        width: 103%;
+    }
+
+    #sneakSnippet {
+        width: 100%;
+    }
 
     #partners {
         flex-direction: column;
