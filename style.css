@@ -169,6 +169,7 @@ footer {
 
 #top-line_footer {
     display: flex;
+    color: black;
 }
 
 #footer_links_div {
@@ -279,4 +280,61 @@ footer {
     #partners img {
         padding-bottom: 60px;
     }
+
+    footer {
+    background-color: #F5F6F8;
+    height: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    }
+
+    #footer_logo{
+        margin-left: 0;
+        position: relative;
+        margin-top: 50px;
+        padding-bottom: 45px;
+    }
+
+    #footer_links_div {
+        margin-left: 0;
+    }
+
+    #top-line_footer {
+    flex-direction: column;
+    text-align: center;
+    }
+
+    #faq {
+        margin-right: 0;
+        padding-bottom: 35px;
+    }
+
+    #privacyPol {
+    margin-right: 0;
+    padding-bottom: 35px;
+    }
+
+    .footer_links {
+        margin-right: 0;
+        padding-bottom: 35px;
+    }
+
+    #bottom-line_footer {
+    display: flex;
+    margin-top: 0;
+    flex-direction: column;
+    text-align: center;
+    }
+
+    #contact {
+        padding-bottom: 35px;
+    }
+
+    #social_links {
+        float: none;
+        padding-left: 0;
+        margin-bottom: 30px;
+    }
 }
+
