@@ -270,4 +270,13 @@ footer {
     margin: auto;
     width: 80%;
 }
+
+    #partners {
+        flex-direction: column;
+        margin-top: 110px;
+    }
+
+    #partners img {
+        padding-bottom: 60px;
+    }
 }
