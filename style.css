@@ -6,8 +6,13 @@
 
 body {
     margin: 0;
+    font-family: Bai Jamjuree;
 }
 
 h1 {
     margin: 0;
+}
+
+#logo {
+    max-width: 126px;
 }
