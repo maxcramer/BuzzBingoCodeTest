@@ -1,5 +1,5 @@
 # Frontend Mentor - Clipboard landing page
-
+# To view please go to https://maxcramer.github.io/BuzzBingoCodeTest/
 ![Design preview for the Clipboard landing page coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
