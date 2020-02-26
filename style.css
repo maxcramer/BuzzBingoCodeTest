@@ -251,9 +251,23 @@ footer {
         margin-left: 0;
     }
 
-    }
     #image_devices {
         padding-top: 65px;
         width: 100%;
     }
+
+    #workflow {
+            margin-top: 120px;
+    }
+
+    #paragraphs {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+}
+.blacklist {
+    padding-bottom: 40px;
+    margin: auto;
+    width: 80%;
+}
 }
